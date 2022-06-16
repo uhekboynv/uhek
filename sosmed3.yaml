@@ -1,0 +1,165 @@
+payload:
+  # Instagram
+- "+.cdninstagram.com
+- "+.instagram.com
+  # Whatsapp
+- "+.m.me
+- "+.oculus.com
+- "+.oculuscdn.com
+- "+.rocksdb.org
+- "+.whatsapp.com
+- "+.whatsapp.net
+  # Facebook
+- "+.messenger.com
+- "+.facebook.com
+- "+.facebook.net
+- "+.fb.com
+- "+.fb.me
+- "+.fbaddins.com
+- "+.fbcdn.net
+- "+.fbsbx.com
+- "+.fbworkmail.com
+- "+.facebookmail.com
+  # Line
+- "+.lin.ee
+- "+.line.me
+- "+.line.naver.jp
+- "+.line-apps.com
+- "+.line-cdn.net
+- "+.line-scdn.net
+- "+.nhncorp.jp
+- "+.naver.jp
+  # Telegram
+- "+.telegra.ph
+- "+.telegram.org
+- "+.t.me
+- "+.tdesktop.com
+- "+.telegram.me
+- "+.telesco.pe
+- "+.contest.com
+- "+.graph.org
+- "+.quiz.directory
+- "+.telega.one
+- "+.telegram.dog
+- "+.telegram.space
+- "+.tg.dev
+- "+.tx.me
+- "+.usercontent.dev
+  # Twitter
+- "+.pscp.tv
+- "+.periscope.tv
+- "+.t.co
+- "+.twimg.co
+- "+.twimg.com
+- "+.twitpic.com
+- "+.twitter.com
+- "+.vine.co
+- "+.twttr.net
+- "+.twttr.com
+- "+.twitter.jp
+  # Spotify
+- "+.audio-ak-spotify-com.akamaized.net
+- "+.byspotify.com
+- "+.heads4-ak-spotify-com.akamaized.net
+- "+.pscdn.co
+- "+.scdn.co
+- "+.spoti.fi
+- "+.spotify-com.akamaized.net
+- "+.spotify-everywhere.com
+- "+.spotify.com
+- "+.spotify.design
+- "+.spotifycdn.com
+- "+.spotifycdn.net
+- "+.spotifycharts.com
+- "+.spotifycodes.com
+- "+.spotifyforbrands.com
+- "+.spotifyjobs.com
+- "+.spotify-com
+- "+.spotify.com
+  # Deezer
+- "+.deezer.com
+- "+.dzcdn.net
+  # JOOX
+- "+.joox.com
+- "+.jooxweb-api
+  # Instagram
+- "+.cdninstagram.com
+- "+.instagram.com
+  # Whatsapp
+- "+.m.me
+- "+.oculus.com
+- "+.oculuscdn.com
+- "+.rocksdb.org
+- "+.whatsapp.com
+- "+.whatsapp.net
+  # Facebook
+- "+.messenger.com
+- "+.facebook.com
+- "+.facebook.net
+- "+.fb.com
+- "+.fb.me
+- "+.fbaddins.com
+- "+.fbcdn.net
+- "+.fbsbx.com
+- "+.fbworkmail.com
+- "+.,.facebook.
+- "+.facebookmail.com
+  # Line
+- "+.lin.ee
+- "+.line.me
+- "+.line.naver.jp
+- "+.line-apps.com
+- "+.line-cdn.net
+- "+.line-scdn.net
+- "+.nhncorp.jp
+- "+.naver.jp
+  # Telegram
+- "+.telegra.ph
+- "+.telegram.org
+- "+.t.me
+- "+.tdesktop.com
+- "+.telegram.me
+- "+.telesco.pe
+  # Twitter
+- "+.pscp.tv
+- "+.periscope.tv
+- "+.t.co
+- "+.twimg.co
+- "+.twimg.com
+- "+.twitpic.com
+- "+.twitter.com
+- "+.vine.co
+- "+.twttr.net
+- "+.twttr.com
+- "+.twitter.jp
+  # Deezer
+- "+.deezer.com
+- "+.dzcdn.net
+  # JOOX
+- "+.joox.com
+  # Microsoft
+- "+.microsoft
+- "+.office
+- "+.windows
+- "+.azure
+- "+.msedge
+- "+.bing
+- "+.onedrive
+  - DOMAIN,microsoft.com
+  - DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
+  - DOMAIN,statics-marketingsites-wcus-ms-com.akamaized.net
+- "+.microsoft.com
+- "+.office.com
+- "+.office365.com
+- "+.windows.net
+- "+.msedge.net
+- "+.live.com
+- "+.live.net
+- "+.azureedge.us
+- "+.bing.com
+- "+.sfx.ms
+- "+.onestore.ms
+- "+.msauth.net
+- "+.gfx.ms
+  # Spotify-ipv6
+  - DOMAIN,dealer.spotify.com
